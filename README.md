@@ -1,3 +1,8 @@
+This is a fork + my own stuff. Old Project, could be useful for someone. I have successfully trained a PPO agent on the simulator and run on the real hardware for swinging up Quanser Rotary Pendulum. 
+I have created simulators for it seperately, I beleieve they are not in this repo but will be uploaded when I find time. 
+
+Happy hacking
+
 Quanser Robots
 ==============
 
